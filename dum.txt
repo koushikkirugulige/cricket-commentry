@@ -1,0 +1,12 @@
+--2017-09-08 21:16:55--  http://www.cricbuzz.com/live-cricket-scores/16854/eng-vs-wi-3rd-test-west-indies-tour-of-england-2017
+Resolving www.cricbuzz.com (www.cricbuzz.com)... 104.17.37.113, 104.17.40.113, 104.17.41.113, ...
+Connecting to www.cricbuzz.com (www.cricbuzz.com)|104.17.37.113|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘file.html’
+
+     0K .......... .......... .......... .......... ..........  702K
+    50K .......... .......... .......... ..........            1.37M=0.1s
+
+2017-09-08 21:16:55 (903 KB/s) - ‘file.html’ saved [92335]
+
